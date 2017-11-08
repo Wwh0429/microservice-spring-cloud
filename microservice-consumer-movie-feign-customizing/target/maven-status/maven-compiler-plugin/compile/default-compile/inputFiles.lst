@@ -1,0 +1,7 @@
+E:\Spring Cloud\microservice-consumer-movie-feign-customizing\src\main\java\com\liuwei\study\controller\MovieController.java
+E:\Spring Cloud\microservice-consumer-movie-feign-customizing\src\main\java\com\liuwei\study\entity\User.java
+E:\Spring Cloud\microservice-consumer-movie-feign-customizing\src\main\java\com\liuwei\study\feign\UserFeignClient.java
+E:\Spring Cloud\microservice-consumer-movie-feign-customizing\src\main\java\com\liuwei\config\FeignConfiguration2.java
+E:\Spring Cloud\microservice-consumer-movie-feign-customizing\src\main\java\com\liuwei\study\feign\OtherUserFeignClient.java
+E:\Spring Cloud\microservice-consumer-movie-feign-customizing\src\main\java\com\liuwei\config\FeignConfiguration.java
+E:\Spring Cloud\microservice-consumer-movie-feign-customizing\src\main\java\com\liuwei\study\ConsumerMovieFeignApplication.java

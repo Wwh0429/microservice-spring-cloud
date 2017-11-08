@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.liuwei.study.microservicesimpleconsumermovie.MicroserviceSimpleConsumerMovieApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.822 sec - in com.liuwei.study.microservicesimpleconsumermovie.MicroserviceSimpleConsumerMovieApplicationTests
